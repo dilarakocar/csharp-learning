@@ -1,4 +1,5 @@
 # String olarak tanımlanan değişkendeki ‘’Merhaba Günaydın’’ verisini label'a yazdıran program:
+
 namespace WinFormsApp1
 {
 public partial class Form1 : Form
