@@ -12,6 +12,7 @@ This repository contains my C# learning process and practice projects.
 
 * week1 → Basic concepts, console applications
 * week2 → WinForms basics (UI controls, events, form interactions)
+* week3 → WinForms mini applications (calculations, data handling, user input projects)
 * (more weeks will be added...)
 
 ## 📌 What I’m Learning
@@ -23,6 +24,7 @@ This repository contains my C# learning process and practice projects.
 * WinForms (UI development)
 * Event handling (button clicks, inputs)
 * Working with controls (Label, TextBox, ListBox, ComboBox)
+* Building mini applications (calculator, student average, list management)
 
 ## 🎯 Goal
 
